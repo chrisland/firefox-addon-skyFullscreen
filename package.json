@@ -1,0 +1,13 @@
+{
+  "title": "skyFullscreen",
+  "name": "firefox-addon-skyfullscreen",
+  "version": "0.0.3",
+  "description": "Open Video Player in Fullscreen",
+  "main": "index.js",
+  "author": "Christian Marienfeld",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
